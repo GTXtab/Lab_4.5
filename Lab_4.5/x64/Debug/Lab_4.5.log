@@ -1,0 +1,47 @@
+﻿  Lab_4.5.cpp
+D:\NULP\AP\september_labs&pract\ap_t_04\ReadyToLook\Lab_4.5\Lab_4.5\Lab_4.5.cpp(15,5): error C2144: syntax error: 'double' should be preceded by ';'
+D:\NULP\AP\september_labs&pract\ap_t_04\ReadyToLook\Lab_4.5\Lab_4.5\Lab_4.5.cpp(16,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\NULP\AP\september_labs&pract\ap_t_04\ReadyToLook\Lab_4.5\Lab_4.5\Lab_4.5.cpp(16,5): error C2365: 'srand': redefinition; previous definition was 'function'
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\stdlib.h(350,23):
+      see declaration of 'srand'
+  
+D:\NULP\AP\september_labs&pract\ap_t_04\ReadyToLook\Lab_4.5\Lab_4.5\Lab_4.5.cpp(18,5): error C2059: syntax error: 'for'
+D:\NULP\AP\september_labs&pract\ap_t_04\ReadyToLook\Lab_4.5\Lab_4.5\Lab_4.5.cpp(18,19): error C2143: syntax error: missing ')' before ';'
+D:\NULP\AP\september_labs&pract\ap_t_04\ReadyToLook\Lab_4.5\Lab_4.5\Lab_4.5.cpp(18,23): error C2143: syntax error: missing ';' before '<'
+D:\NULP\AP\september_labs&pract\ap_t_04\ReadyToLook\Lab_4.5\Lab_4.5\Lab_4.5.cpp(18,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\NULP\AP\september_labs&pract\ap_t_04\ReadyToLook\Lab_4.5\Lab_4.5\Lab_4.5.cpp(18,23): error C2059: syntax error: '<'
+D:\NULP\AP\september_labs&pract\ap_t_04\ReadyToLook\Lab_4.5\Lab_4.5\Lab_4.5.cpp(18,30): error C2143: syntax error: missing ';' before '++'
+D:\NULP\AP\september_labs&pract\ap_t_04\ReadyToLook\Lab_4.5\Lab_4.5\Lab_4.5.cpp(18,29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\NULP\AP\september_labs&pract\ap_t_04\ReadyToLook\Lab_4.5\Lab_4.5\Lab_4.5.cpp(18,29): error C2086: 'int i': redefinition
+      D:\NULP\AP\september_labs&pract\ap_t_04\ReadyToLook\Lab_4.5\Lab_4.5\Lab_4.5.cpp(18,21):
+      see declaration of 'i'
+  
+D:\NULP\AP\september_labs&pract\ap_t_04\ReadyToLook\Lab_4.5\Lab_4.5\Lab_4.5.cpp(18,30): error C2059: syntax error: '++'
+D:\NULP\AP\september_labs&pract\ap_t_04\ReadyToLook\Lab_4.5\Lab_4.5\Lab_4.5.cpp(18,32): error C2059: syntax error: ')'
+D:\NULP\AP\september_labs&pract\ap_t_04\ReadyToLook\Lab_4.5\Lab_4.5\Lab_4.5.cpp(19,5): error C2143: syntax error: missing ';' before '{'
+D:\NULP\AP\september_labs&pract\ap_t_04\ReadyToLook\Lab_4.5\Lab_4.5\Lab_4.5.cpp(19,5): error C2447: '{': missing function header (old-style formal list?)
+D:\NULP\AP\september_labs&pract\ap_t_04\ReadyToLook\Lab_4.5\Lab_4.5\Lab_4.5.cpp(30,10): error C2143: syntax error: missing ';' before '<<'
+D:\NULP\AP\september_labs&pract\ap_t_04\ReadyToLook\Lab_4.5\Lab_4.5\Lab_4.5.cpp(30,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\NULP\AP\september_labs&pract\ap_t_04\ReadyToLook\Lab_4.5\Lab_4.5\Lab_4.5.cpp(30,10): error C2059: syntax error: '<<'
+D:\NULP\AP\september_labs&pract\ap_t_04\ReadyToLook\Lab_4.5\Lab_4.5\Lab_4.5.cpp(32,5): error C2059: syntax error: 'for'
+D:\NULP\AP\september_labs&pract\ap_t_04\ReadyToLook\Lab_4.5\Lab_4.5\Lab_4.5.cpp(32,19): error C2143: syntax error: missing ')' before ';'
+D:\NULP\AP\september_labs&pract\ap_t_04\ReadyToLook\Lab_4.5\Lab_4.5\Lab_4.5.cpp(32,23): error C2143: syntax error: missing ';' before '<'
+D:\NULP\AP\september_labs&pract\ap_t_04\ReadyToLook\Lab_4.5\Lab_4.5\Lab_4.5.cpp(32,21): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\NULP\AP\september_labs&pract\ap_t_04\ReadyToLook\Lab_4.5\Lab_4.5\Lab_4.5.cpp(32,21): error C2086: 'int i': redefinition
+      D:\NULP\AP\september_labs&pract\ap_t_04\ReadyToLook\Lab_4.5\Lab_4.5\Lab_4.5.cpp(18,21):
+      see declaration of 'i'
+  
+D:\NULP\AP\september_labs&pract\ap_t_04\ReadyToLook\Lab_4.5\Lab_4.5\Lab_4.5.cpp(32,23): error C2059: syntax error: '<'
+D:\NULP\AP\september_labs&pract\ap_t_04\ReadyToLook\Lab_4.5\Lab_4.5\Lab_4.5.cpp(32,30): error C2143: syntax error: missing ';' before '++'
+D:\NULP\AP\september_labs&pract\ap_t_04\ReadyToLook\Lab_4.5\Lab_4.5\Lab_4.5.cpp(32,29): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\NULP\AP\september_labs&pract\ap_t_04\ReadyToLook\Lab_4.5\Lab_4.5\Lab_4.5.cpp(32,29): error C2086: 'int i': redefinition
+      D:\NULP\AP\september_labs&pract\ap_t_04\ReadyToLook\Lab_4.5\Lab_4.5\Lab_4.5.cpp(18,21):
+      see declaration of 'i'
+  
+D:\NULP\AP\september_labs&pract\ap_t_04\ReadyToLook\Lab_4.5\Lab_4.5\Lab_4.5.cpp(32,30): error C2059: syntax error: '++'
+D:\NULP\AP\september_labs&pract\ap_t_04\ReadyToLook\Lab_4.5\Lab_4.5\Lab_4.5.cpp(32,32): error C2059: syntax error: ')'
+D:\NULP\AP\september_labs&pract\ap_t_04\ReadyToLook\Lab_4.5\Lab_4.5\Lab_4.5.cpp(33,5): error C2143: syntax error: missing ';' before '{'
+D:\NULP\AP\september_labs&pract\ap_t_04\ReadyToLook\Lab_4.5\Lab_4.5\Lab_4.5.cpp(33,5): error C2447: '{': missing function header (old-style formal list?)
+D:\NULP\AP\september_labs&pract\ap_t_04\ReadyToLook\Lab_4.5\Lab_4.5\Lab_4.5.cpp(46,5): error C2059: syntax error: 'return'
+D:\NULP\AP\september_labs&pract\ap_t_04\ReadyToLook\Lab_4.5\Lab_4.5\Lab_4.5.cpp(47,1): error C2059: syntax error: '}'
+D:\NULP\AP\september_labs&pract\ap_t_04\ReadyToLook\Lab_4.5\Lab_4.5\Lab_4.5.cpp(47,1): error C2143: syntax error: missing ';' before '}'
